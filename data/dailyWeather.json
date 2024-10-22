@@ -1,0 +1,17 @@
+{
+    "dailyWeather": [
+      {
+        "city": "Delhi",
+        "temperature": {
+          "current": 27.05,
+          "min": 26.0,
+          "max": 30.0
+        },
+        "weather": "Haze",
+        "humidity": 57,
+        "pressure": 1012,
+        "timestamp": "2024-10-22T12:00:00Z"
+      }
+    ]
+  }
+  
